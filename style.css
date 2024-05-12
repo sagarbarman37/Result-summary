@@ -154,6 +154,10 @@
   background-color: #303B59;
 }
 
+.btn:active{
+  color: #000;
+  background-color: rgba(52, 90, 55, 0.8);
+
 
 @media (min-width:800px) {
   
